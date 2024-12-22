@@ -1,6 +1,6 @@
 package Model;
 
-public class CourierLogin {
+public class CourierResponseData {
 private Integer id;
 private String message;
 
